@@ -16,9 +16,9 @@ figure{
   width:525px;
   height:700px;
   overflow:hidden;
-  background-image: url('https://i.imgur.com/XV8MUN0.jpg');
+  background-image: url('https://i.imgur.com/tCI6lir.jpg');
   transition: all; float;
-  background-repeat: repeat-y;
+  background-repeat: repeat-n;
   margin-right: 250px;
   margin-top: 30px;
 }
