@@ -16,18 +16,18 @@ figure{
   width:525px;
   height:700px;
   overflow:hidden;
-  background-image: url('https://i.imgur.com/nBHhnKK.jpg');
+  background-image: url('https://i.imgur.com/XV8MUN0.jpg');
   transition: all; float;
-  background-repeat: repeat-n;
-  margin-right: 50px;
-  margin-top: 0px;
+  background-repeat: repeat-y;
+  margin-right: 250px;
+  margin-top: 30px;
 }
   
 
 figure:hover{
   overflow:hidden;
-  -webkit-animation: switch 2.5s infinite; /* Chrome, Safari, Opera */ 
-    animation: switch 2.5s infinite;
+  -webkit-animation: switch 1s infinite; /* Chrome, Safari, Opera */ 
+    animation: switch 1s infinite;
    background-repeat: repeat-n;
 }
 
