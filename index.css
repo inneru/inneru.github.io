@@ -1,7 +1,7 @@
 body{
 /* fallback */
   background-color: #FFFFFF;
-  background-image: url(images/images/IMG_0191.jpg);
+  background-image: url('https://i.imgur.com/nBHhnKK.jpg');
   background-repeat: repeat-y;
 }
 
@@ -16,7 +16,7 @@ figure{
   width:525px;
   height:700px;
   overflow:hidden;
-  background-image: url('/images/IMG_0191.jpg');
+  background-image: url('https://i.imgur.com/nBHhnKK.jpg');
   transition: all; float;
   background-repeat: repeat-n;
   margin-right: 50px;
@@ -32,11 +32,11 @@ figure:hover{
 }
 
 @-webkit-keyframes switch {
-    0% {background-image: url('/images/IMG_0207.jpg');}
-    20% {background-image: url('/images/IMG_0211.jpg');}
-    40% {background-image: url('/images/IMG_0208.jpg');}
-    60% {background-image: url('/images/IMG_0210.jpg');}
-    80% {background-image: url('/images/IMG_0206.jpg');}
-    100% {background-image: url('/images/IMG_0209.jpg');}
+    0% {background-image: url('https://i.imgur.com/4BkPFx1.jpg');}
+    20% {background-image: url('https://i.imgur.com/F8ZD5GV.jpg');}
+    40% {background-image: url('https://i.imgur.com/UAH2U7z.jpg');}
+    60% {background-image: url('https://i.imgur.com/rwkCl6x.jpg');}
+    80% {background-image: url('https://i.imgur.com/RDo5HWk.jpg');}
+    100% {background-image: url('https://i.imgur.com/CC74NJn.jpg');}
   
 }
