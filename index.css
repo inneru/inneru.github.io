@@ -1,7 +1,7 @@
 body{
 /* fallback */
   background-color: #FFFFFF;
-  background-image: url(images/linear_bg_1.png);
+  background-image: url(images/images/IMG_0191.jpg);
   background-repeat: repeat-y;
 }
 
@@ -13,10 +13,10 @@ body{
 
 
 figure{
-  width:700px;
+  width:525px;
   height:700px;
   overflow:hidden;
-  background-image: url('https://i.imgur.com/AIPyjFp.jpg');
+  background-image: url('/images/IMG_0191.jpg');
   transition: all; float;
   background-repeat: repeat-n;
   margin-right: 50px;
@@ -32,11 +32,11 @@ figure:hover{
 }
 
 @-webkit-keyframes switch {
-    0% {background-image: url('https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/17833932_10207829980300582_8993936978652724444_o.jpg?_nc_cat=0&oh=7beed50907849e99e34f7919f184f6e1&oe=5BAFC807');}
-    20% {background-image: url('https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/17814366_10207829975340458_6700554202931768038_o.jpg?_nc_cat=0&oh=907166b290570b3755dfe18d4c690602&oe=5BB858F9');}
-    40% {background-image: url('https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/17855405_10207829973900422_1160758468467333862_o.jpg?_nc_cat=0&oh=51c33018970eefb3b21dd9434ea9e4be&oe=5B79FE67');}
-    60% {background-image: url('https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/17855248_10207829980380584_2566303041065684660_o.jpg?_nc_cat=0&oh=97293b3e732ae85ed01e7ca09fed1ddf&oe=5B7D0B56');}
-    80% {background-image: url('https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/17833932_10207829980300582_8993936978652724444_o.jpg?_nc_cat=0&oh=7beed50907849e99e34f7919f184f6e1&oe=5BAFC807');}
-    100% {background-image: url('https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/17620348_10207829980260581_7116571030619304407_o.jpg?_nc_cat=0&oh=d989bf9748d1fb16b5309fe4ad35be62&oe=5BC1BE67');}
+    0% {background-image: url('/images/IMG_0207.jpg');}
+    20% {background-image: url('/images/IMG_0211.jpg');}
+    40% {background-image: url('/images/IMG_0208.jpg');}
+    60% {background-image: url('/images/IMG_0210.jpg');}
+    80% {background-image: url('/images/IMG_0206.jpg');}
+    100% {background-image: url('/images/IMG_0209.jpg');}
   
 }
